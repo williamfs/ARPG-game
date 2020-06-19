@@ -18,7 +18,7 @@ public class General_Controller : MonoBehaviour
     bool start = false;
     void Start()
     {
-
+        Text_As_GO.SetActive(false);
           
         
     }
