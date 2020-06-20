@@ -37,10 +37,15 @@ public class General_Controller : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         // Dialoge = collision.gameObject.GetComponent<Dialogues>().Return_Dialogues(Index);
-        Text_As_GO.SetActive(true);
-        person = collision;
-        total_count = collision.gameObject.GetComponent<Dialogues>().TotalString()-1;
-        start = true;
+        if (collision.gameObject.tag == "villager")
+        {
+
+
+            Text_As_GO.SetActive(true);
+            person = collision;
+            total_count = collision.gameObject.GetComponent<Dialogues>().TotalString() - 1;
+            start = true;
+        }
         
     }
     private void OnCollisionExit2D(Collision2D collision)
