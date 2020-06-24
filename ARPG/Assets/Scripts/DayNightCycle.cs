@@ -6,10 +6,11 @@ using UnityEngine.Experimental.Rendering.Universal;
 public class DayNightCycle : MonoBehaviour
 {
     [SerializeField] float cycleSpeed = 2;
-    public Light2D light2D;
+    private Light2D light2D;
+    public bool cycle = true; // Will be call in other scripts when some kind of events happen
 
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         light2D = GetComponent<Light2D>();
     }
@@ -17,10 +18,13 @@ public class DayNightCycle : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        light2D.intensity -= Time.deltaTime * cycleSpeed;
-        if (light2D.intensity <= 0 || light2D.intensity >= 1)
+        if (cycle)
         {
-            cycleSpeed *= -1;
+            light2D.intensity -= Time.deltaTime * cycleSpeed;
+            if (light2D.intensity <= 0 || light2D.intensity >= 1)
+            {
+                cycleSpeed *= -1;
+            }
         }
     }
 }

@@ -34,7 +34,6 @@ public class Player : MonoBehaviour
             Character_animator.SetFloat("Xspeed", 0.5f);
             PlayerRB.velocity = new Vector2(3f , PlayerRB.velocity.y);
             OneTimeKey = true;
-           
         }
          if (Input.GetKeyDown(KeyCode.A) && OneTimeKey == false)
         {
@@ -66,7 +65,7 @@ public class Player : MonoBehaviour
             PlayerRB.velocity = new Vector2(0f, 0f);
             OneTimeKey = false ;
         }
-       else if (Input.GetKeyUp(KeyCode.A))
+        else if (Input.GetKeyUp(KeyCode.A))
         {
             Character_animator.SetFloat("Xspeed", -0.1f);
             Character_animator.SetFloat("Yspeed", 0f);
