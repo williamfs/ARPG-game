@@ -1,7 +1,2581 @@
 fileFormatVersion: 2
 guid: 0f2cc96317023294091f82a5cb3e283e
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -5269519099407390509
+    second: pipo-map001_0
+  - first:
+      213: -5416332936090888234
+    second: pipo-map001_1
+  - first:
+      213: -2437364280568402399
+    second: pipo-map001_2
+  - first:
+      213: -5527016534212105731
+    second: pipo-map001_3
+  - first:
+      213: 3718245889279279847
+    second: pipo-map001_4
+  - first:
+      213: 4683098383065996822
+    second: pipo-map001_5
+  - first:
+      213: -5717687907839241153
+    second: pipo-map001_6
+  - first:
+      213: 1424697382229734607
+    second: pipo-map001_7
+  - first:
+      213: -6312613804429686609
+    second: pipo-map001_8
+  - first:
+      213: -246798103857957779
+    second: pipo-map001_9
+  - first:
+      213: -1454110987623436608
+    second: pipo-map001_10
+  - first:
+      213: 1234680100110115839
+    second: pipo-map001_11
+  - first:
+      213: -906371866236501745
+    second: pipo-map001_12
+  - first:
+      213: 8977247530602722876
+    second: pipo-map001_13
+  - first:
+      213: -7843651101061779845
+    second: pipo-map001_14
+  - first:
+      213: 8961045491855331264
+    second: pipo-map001_15
+  - first:
+      213: -6112096410542862560
+    second: pipo-map001_16
+  - first:
+      213: 6931905326759082842
+    second: pipo-map001_17
+  - first:
+      213: 1699883463429247414
+    second: pipo-map001_18
+  - first:
+      213: -8995321347379898099
+    second: pipo-map001_19
+  - first:
+      213: -3267411329243721955
+    second: pipo-map001_20
+  - first:
+      213: 6468115666481314835
+    second: pipo-map001_21
+  - first:
+      213: -3251396133706481436
+    second: pipo-map001_22
+  - first:
+      213: -2814365639321644721
+    second: pipo-map001_23
+  - first:
+      213: 8829211628340851727
+    second: pipo-map001_24
+  - first:
+      213: 4286670320623476122
+    second: pipo-map001_25
+  - first:
+      213: 6677723470350300850
+    second: pipo-map001_26
+  - first:
+      213: 5178407504729270636
+    second: pipo-map001_27
+  - first:
+      213: -8911978121004699742
+    second: pipo-map001_28
+  - first:
+      213: -8762372854186928092
+    second: pipo-map001_29
+  - first:
+      213: -4782049594433217827
+    second: pipo-map001_30
+  - first:
+      213: -7846562250274070864
+    second: pipo-map001_31
+  - first:
+      213: -15772449141230588
+    second: pipo-map001_32
+  - first:
+      213: -3766307534909757195
+    second: pipo-map001_33
+  - first:
+      213: -7256230793906247091
+    second: pipo-map001_34
+  - first:
+      213: 667244823094537612
+    second: pipo-map001_35
+  - first:
+      213: 8225919883296358076
+    second: pipo-map001_36
+  - first:
+      213: 689411517176381371
+    second: pipo-map001_37
+  - first:
+      213: 699060761790100076
+    second: pipo-map001_38
+  - first:
+      213: 7443887579659007016
+    second: pipo-map001_39
+  - first:
+      213: 6637831800298293285
+    second: pipo-map001_40
+  - first:
+      213: -5657277353864098411
+    second: pipo-map001_41
+  - first:
+      213: 6217661829129580176
+    second: pipo-map001_42
+  - first:
+      213: 6682112963163434993
+    second: pipo-map001_43
+  - first:
+      213: 2303172638863419440
+    second: pipo-map001_44
+  - first:
+      213: 7654146636623352930
+    second: pipo-map001_45
+  - first:
+      213: -5634418758363736598
+    second: pipo-map001_46
+  - first:
+      213: 3570838780339274946
+    second: pipo-map001_47
+  - first:
+      213: 808040551348777589
+    second: pipo-map001_48
+  - first:
+      213: -181219940168233198
+    second: pipo-map001_49
+  - first:
+      213: -4313576221459570760
+    second: pipo-map001_50
+  - first:
+      213: -7552416767321104429
+    second: pipo-map001_51
+  - first:
+      213: 2546639792098889593
+    second: pipo-map001_52
+  - first:
+      213: 7802387868827806490
+    second: pipo-map001_53
+  - first:
+      213: 7431523044502822054
+    second: pipo-map001_54
+  - first:
+      213: -5069888869417443844
+    second: pipo-map001_55
+  - first:
+      213: 7446642039421398555
+    second: pipo-map001_56
+  - first:
+      213: -5156193221980124680
+    second: pipo-map001_57
+  - first:
+      213: 1293597625457185578
+    second: pipo-map001_58
+  - first:
+      213: 1177110877826944098
+    second: pipo-map001_59
+  - first:
+      213: 8601716939323926817
+    second: pipo-map001_60
+  - first:
+      213: -9084634430182319928
+    second: pipo-map001_61
+  - first:
+      213: -2977447018594927535
+    second: pipo-map001_62
+  - first:
+      213: 5942700738155059958
+    second: pipo-map001_63
+  - first:
+      213: 4666632992295994918
+    second: pipo-map001_64
+  - first:
+      213: 2864591466633239918
+    second: pipo-map001_65
+  - first:
+      213: 3214971446165859164
+    second: pipo-map001_66
+  - first:
+      213: -5319182623105808247
+    second: pipo-map001_67
+  - first:
+      213: 5136197938795102884
+    second: pipo-map001_68
+  - first:
+      213: -1732251768446053545
+    second: pipo-map001_69
+  - first:
+      213: 903728756069359080
+    second: pipo-map001_70
+  - first:
+      213: 1718791417098752249
+    second: pipo-map001_71
+  - first:
+      213: -1500635577605154031
+    second: pipo-map001_72
+  - first:
+      213: 9205891145400191851
+    second: pipo-map001_73
+  - first:
+      213: 3128266351427878525
+    second: pipo-map001_74
+  - first:
+      213: -6982486059014441949
+    second: pipo-map001_75
+  - first:
+      213: 7413351868176406571
+    second: pipo-map001_76
+  - first:
+      213: 5897004785317649190
+    second: pipo-map001_77
+  - first:
+      213: -2840214188527077694
+    second: pipo-map001_78
+  - first:
+      213: 6878749151771428278
+    second: pipo-map001_79
+  - first:
+      213: 4398416375635667263
+    second: pipo-map001_80
+  - first:
+      213: -6499850372177526558
+    second: pipo-map001_81
+  - first:
+      213: -7602503770315888869
+    second: pipo-map001_82
+  - first:
+      213: -3556995739316098263
+    second: pipo-map001_83
+  - first:
+      213: -4061636782667743494
+    second: pipo-map001_84
+  - first:
+      213: 2615153379229884649
+    second: pipo-map001_85
+  - first:
+      213: -7785925522732397524
+    second: pipo-map001_86
+  - first:
+      213: -2385530564327974818
+    second: pipo-map001_87
+  - first:
+      213: 1569329748130147581
+    second: pipo-map001_88
+  - first:
+      213: -5139503266760629268
+    second: pipo-map001_89
+  - first:
+      213: 5816121981933969461
+    second: pipo-map001_90
+  - first:
+      213: 2354372584340101481
+    second: pipo-map001_91
+  - first:
+      213: 7527886059172765739
+    second: pipo-map001_92
+  - first:
+      213: -5073127803546919541
+    second: pipo-map001_93
+  - first:
+      213: 9166054816179976674
+    second: pipo-map001_94
+  - first:
+      213: -115758874097221641
+    second: pipo-map001_95
+  - first:
+      213: 4440312149221241423
+    second: pipo-map001_96
+  - first:
+      213: 7733965643881693557
+    second: pipo-map001_97
+  - first:
+      213: 954554157796864045
+    second: pipo-map001_98
+  - first:
+      213: -7247035724603754042
+    second: pipo-map001_99
+  - first:
+      213: 2056657459847950271
+    second: pipo-map001_100
+  - first:
+      213: -1423504455617580036
+    second: pipo-map001_101
+  - first:
+      213: -4478925996495628268
+    second: pipo-map001_102
+  - first:
+      213: 1732570796998606259
+    second: pipo-map001_103
+  - first:
+      213: 5343211335102783806
+    second: pipo-map001_104
+  - first:
+      213: 4483385446821205291
+    second: pipo-map001_105
+  - first:
+      213: 1708707851767769847
+    second: pipo-map001_106
+  - first:
+      213: 8560717876118247366
+    second: pipo-map001_107
+  - first:
+      213: -7618626405028183578
+    second: pipo-map001_108
+  - first:
+      213: -1992705116130253932
+    second: pipo-map001_109
+  - first:
+      213: -7849975793804096045
+    second: pipo-map001_110
+  - first:
+      213: -1230247898441424359
+    second: pipo-map001_111
+  - first:
+      213: -2059511032645320157
+    second: pipo-map001_112
+  - first:
+      213: 147220000355594926
+    second: pipo-map001_113
+  - first:
+      213: -1539853881394073213
+    second: pipo-map001_114
+  - first:
+      213: 4994225676035150137
+    second: pipo-map001_115
+  - first:
+      213: -5039297975358692841
+    second: pipo-map001_116
+  - first:
+      213: -3983869538134068407
+    second: pipo-map001_117
+  - first:
+      213: -890672820571855946
+    second: pipo-map001_118
+  - first:
+      213: -5585508735819873960
+    second: pipo-map001_119
+  - first:
+      213: 7688077828369979295
+    second: pipo-map001_120
+  - first:
+      213: -5688695654106726197
+    second: pipo-map001_121
+  - first:
+      213: 6115964746632530946
+    second: pipo-map001_122
+  - first:
+      213: 510955955072961719
+    second: pipo-map001_123
+  - first:
+      213: -8526522853305049338
+    second: pipo-map001_124
+  - first:
+      213: -1777280219608556554
+    second: pipo-map001_125
+  - first:
+      213: 5886084086995254750
+    second: pipo-map001_126
+  - first:
+      213: -6387555082345069317
+    second: pipo-map001_127
+  - first:
+      213: 8073079866612090644
+    second: pipo-map001_128
+  - first:
+      213: 1890493825642741799
+    second: pipo-map001_129
+  - first:
+      213: -4120927034611182195
+    second: pipo-map001_130
+  - first:
+      213: -5211289779168354368
+    second: pipo-map001_131
+  - first:
+      213: -6608439696505885688
+    second: pipo-map001_132
+  - first:
+      213: 2418178303130953460
+    second: pipo-map001_133
+  - first:
+      213: -8494959913665617915
+    second: pipo-map001_134
+  - first:
+      213: -2054352575767723590
+    second: pipo-map001_135
+  - first:
+      213: -3239756715669803118
+    second: pipo-map001_136
+  - first:
+      213: 4197552201313170575
+    second: pipo-map001_137
+  - first:
+      213: 672041434729106511
+    second: pipo-map001_138
+  - first:
+      213: -8233874402742244735
+    second: pipo-map001_139
+  - first:
+      213: -6905702574305875566
+    second: pipo-map001_140
+  - first:
+      213: 7943251423780276603
+    second: pipo-map001_141
+  - first:
+      213: 4217219933654803660
+    second: pipo-map001_142
+  - first:
+      213: 4855047515768199888
+    second: pipo-map001_143
+  - first:
+      213: 4904733713286366544
+    second: pipo-map001_144
+  - first:
+      213: 3663915152979330590
+    second: pipo-map001_145
+  - first:
+      213: -2401957054456975053
+    second: pipo-map001_146
+  - first:
+      213: -7317830648876873160
+    second: pipo-map001_147
+  - first:
+      213: 2898875076952770831
+    second: pipo-map001_148
+  - first:
+      213: -4790642324684421311
+    second: pipo-map001_149
+  - first:
+      213: -7483776969751421526
+    second: pipo-map001_150
+  - first:
+      213: 1380332716110593861
+    second: pipo-map001_151
+  - first:
+      213: -7296999027556547069
+    second: pipo-map001_152
+  - first:
+      213: 1038534435588872583
+    second: pipo-map001_153
+  - first:
+      213: -2291908515907724664
+    second: pipo-map001_154
+  - first:
+      213: 4570706980603857409
+    second: pipo-map001_155
+  - first:
+      213: 5998301423623060249
+    second: pipo-map001_156
+  - first:
+      213: -3131663909296954341
+    second: pipo-map001_157
+  - first:
+      213: 7461613045571822867
+    second: pipo-map001_158
+  - first:
+      213: -5021412253796131780
+    second: pipo-map001_159
+  - first:
+      213: 3295291934772675098
+    second: pipo-map001_160
+  - first:
+      213: 8979359379799250279
+    second: pipo-map001_161
+  - first:
+      213: 6006160407047292652
+    second: pipo-map001_162
+  - first:
+      213: -8829116499923599802
+    second: pipo-map001_163
+  - first:
+      213: -5552156961222454010
+    second: pipo-map001_164
+  - first:
+      213: -3193694953746646653
+    second: pipo-map001_165
+  - first:
+      213: 5613763391391125890
+    second: pipo-map001_166
+  - first:
+      213: 8127554491116064045
+    second: pipo-map001_167
+  - first:
+      213: -5022465127453384926
+    second: pipo-map001_168
+  - first:
+      213: -1183045774949703610
+    second: pipo-map001_169
+  - first:
+      213: -1653712782413416280
+    second: pipo-map001_170
+  - first:
+      213: 1990698279003355117
+    second: pipo-map001_171
+  - first:
+      213: -5081737561263455439
+    second: pipo-map001_172
+  - first:
+      213: 1258011598069689394
+    second: pipo-map001_173
+  - first:
+      213: -5458363363194991347
+    second: pipo-map001_174
+  - first:
+      213: -2489734679252519019
+    second: pipo-map001_175
+  - first:
+      213: -6516872321531260712
+    second: pipo-map001_176
+  - first:
+      213: -3333329761600579520
+    second: pipo-map001_177
+  - first:
+      213: -7081359487881338884
+    second: pipo-map001_178
+  - first:
+      213: 7529371410400281206
+    second: pipo-map001_179
+  - first:
+      213: -8668384907092838360
+    second: pipo-map001_180
+  - first:
+      213: 254499324537954395
+    second: pipo-map001_181
+  - first:
+      213: 1612868594978762274
+    second: pipo-map001_182
+  - first:
+      213: -8823076020001634274
+    second: pipo-map001_183
+  - first:
+      213: 5868843261493121541
+    second: pipo-map001_184
+  - first:
+      213: 7192093314935068624
+    second: pipo-map001_185
+  - first:
+      213: 4765417097774278182
+    second: pipo-map001_186
+  - first:
+      213: 8552644907542972430
+    second: pipo-map001_187
+  - first:
+      213: -7040360993140360684
+    second: pipo-map001_188
+  - first:
+      213: 4312516249662377558
+    second: pipo-map001_189
+  - first:
+      213: -8050086618837395086
+    second: pipo-map001_190
+  - first:
+      213: -7235054599299459100
+    second: pipo-map001_191
+  - first:
+      213: -6786197845106127245
+    second: pipo-map001_192
+  - first:
+      213: -5306390882845599515
+    second: pipo-map001_193
+  - first:
+      213: 7071437211272330294
+    second: pipo-map001_194
+  - first:
+      213: 5430318638770389140
+    second: pipo-map001_195
+  - first:
+      213: 5323362947698558208
+    second: pipo-map001_196
+  - first:
+      213: 3555812614120866771
+    second: pipo-map001_197
+  - first:
+      213: 1064797731528162250
+    second: pipo-map001_198
+  - first:
+      213: -8648200679802598228
+    second: pipo-map001_199
+  - first:
+      213: 6213503658326451124
+    second: pipo-map001_200
+  - first:
+      213: 6093263480370331013
+    second: pipo-map001_201
+  - first:
+      213: -896126285488429936
+    second: pipo-map001_202
+  - first:
+      213: 3203368525052439863
+    second: pipo-map001_203
+  - first:
+      213: -6193680863724142000
+    second: pipo-map001_204
+  - first:
+      213: -1140773729213115112
+    second: pipo-map001_205
+  - first:
+      213: -5995111240842247149
+    second: pipo-map001_206
+  - first:
+      213: -1948154835454921306
+    second: pipo-map001_207
+  - first:
+      213: -4025462096400998265
+    second: pipo-map001_208
+  - first:
+      213: -2208714428556508722
+    second: pipo-map001_209
+  - first:
+      213: -2670170161429623073
+    second: pipo-map001_210
+  - first:
+      213: -3683581528134501366
+    second: pipo-map001_211
+  - first:
+      213: -6161558480298327132
+    second: pipo-map001_212
+  - first:
+      213: -6805504358881402008
+    second: pipo-map001_213
+  - first:
+      213: 1843414749590258930
+    second: pipo-map001_214
+  - first:
+      213: -3794294642381008066
+    second: pipo-map001_215
+  - first:
+      213: 6623528483866352058
+    second: pipo-map001_216
+  - first:
+      213: 4617406593635995784
+    second: pipo-map001_217
+  - first:
+      213: 839763257974321499
+    second: pipo-map001_218
+  - first:
+      213: 1576439083128388183
+    second: pipo-map001_219
+  - first:
+      213: 8308567033419627993
+    second: pipo-map001_220
+  - first:
+      213: 4914684814545256006
+    second: pipo-map001_221
+  - first:
+      213: 7119347709829615793
+    second: pipo-map001_222
+  - first:
+      213: -8926164902674535127
+    second: pipo-map001_223
+  - first:
+      213: 5370553242150734690
+    second: pipo-map001_224
+  - first:
+      213: 806211568112143240
+    second: pipo-map001_225
+  - first:
+      213: -2858220543099283240
+    second: pipo-map001_226
+  - first:
+      213: -934764152161349919
+    second: pipo-map001_227
+  - first:
+      213: 1339339821372178402
+    second: pipo-map001_228
+  - first:
+      213: 8974517428081402394
+    second: pipo-map001_229
+  - first:
+      213: -7665600714082533020
+    second: pipo-map001_230
+  - first:
+      213: -257680186106864465
+    second: pipo-map001_231
+  - first:
+      213: 6331586783761865222
+    second: pipo-map001_232
+  - first:
+      213: -3115036485770237576
+    second: pipo-map001_233
+  - first:
+      213: -1730485481238327587
+    second: pipo-map001_234
+  - first:
+      213: -1758781744777173253
+    second: pipo-map001_235
+  - first:
+      213: 7320539913155483718
+    second: pipo-map001_236
+  - first:
+      213: -6748446668102467031
+    second: pipo-map001_237
+  - first:
+      213: 8940936954362226710
+    second: pipo-map001_238
+  - first:
+      213: 503344120485668866
+    second: pipo-map001_239
+  - first:
+      213: 8425126046882762015
+    second: pipo-map001_240
+  - first:
+      213: 2632146169945786647
+    second: pipo-map001_241
+  - first:
+      213: -6999057796185341840
+    second: pipo-map001_242
+  - first:
+      213: -1228532878655405807
+    second: pipo-map001_243
+  - first:
+      213: 1376048086635587817
+    second: pipo-map001_244
+  - first:
+      213: -3555548183348757874
+    second: pipo-map001_245
+  - first:
+      213: -1716550785914077541
+    second: pipo-map001_246
+  - first:
+      213: -8213768259426443584
+    second: pipo-map001_247
+  - first:
+      213: 2740886548240653293
+    second: pipo-map001_248
+  - first:
+      213: 3188746238586686684
+    second: pipo-map001_249
+  - first:
+      213: 297824134287234257
+    second: pipo-map001_250
+  - first:
+      213: 7346569369221065057
+    second: pipo-map001_251
+  - first:
+      213: 4181070775200860082
+    second: pipo-map001_252
+  - first:
+      213: -3385578386324166464
+    second: pipo-map001_253
+  - first:
+      213: 7134152149938717484
+    second: pipo-map001_254
+  - first:
+      213: 2238804537565245992
+    second: pipo-map001_255
+  - first:
+      213: -2098628181138959859
+    second: pipo-map001_256
+  - first:
+      213: 7532056567307206399
+    second: pipo-map001_257
+  - first:
+      213: -7601150221000803011
+    second: pipo-map001_258
+  - first:
+      213: -3422635758296100252
+    second: pipo-map001_259
+  - first:
+      213: 1307106039013008384
+    second: pipo-map001_260
+  - first:
+      213: -8253905551597184705
+    second: pipo-map001_261
+  - first:
+      213: 2783717517763538823
+    second: pipo-map001_262
+  - first:
+      213: -4208745407126713553
+    second: pipo-map001_263
+  - first:
+      213: -5065360412908493849
+    second: pipo-map001_264
+  - first:
+      213: -5054532328800480877
+    second: pipo-map001_265
+  - first:
+      213: 5397668387689382635
+    second: pipo-map001_266
+  - first:
+      213: 9110427971226894367
+    second: pipo-map001_267
+  - first:
+      213: 922094183705354574
+    second: pipo-map001_268
+  - first:
+      213: 6293768449497631657
+    second: pipo-map001_269
+  - first:
+      213: 6382860437107664094
+    second: pipo-map001_270
+  - first:
+      213: -9058648491337054345
+    second: pipo-map001_271
+  - first:
+      213: 4415097030062592392
+    second: pipo-map001_272
+  - first:
+      213: -5184365711332746484
+    second: pipo-map001_273
+  - first:
+      213: 5312143524025138614
+    second: pipo-map001_274
+  - first:
+      213: 4742531198485392168
+    second: pipo-map001_275
+  - first:
+      213: -8269064867733541545
+    second: pipo-map001_276
+  - first:
+      213: 5395576217797889845
+    second: pipo-map001_277
+  - first:
+      213: 1446627498595464806
+    second: pipo-map001_278
+  - first:
+      213: 9017094085571488059
+    second: pipo-map001_279
+  - first:
+      213: 4803477939198334303
+    second: pipo-map001_280
+  - first:
+      213: 6159614057705351433
+    second: pipo-map001_281
+  - first:
+      213: 6004873615638554465
+    second: pipo-map001_282
+  - first:
+      213: -1603247087869525136
+    second: pipo-map001_283
+  - first:
+      213: -5467504682837869266
+    second: pipo-map001_284
+  - first:
+      213: 5722460358920525770
+    second: pipo-map001_285
+  - first:
+      213: 8118759904471025066
+    second: pipo-map001_286
+  - first:
+      213: -1197895906821147829
+    second: pipo-map001_287
+  - first:
+      213: -7446727626433709464
+    second: pipo-map001_288
+  - first:
+      213: -6497493555578189405
+    second: pipo-map001_289
+  - first:
+      213: -7397106516907587249
+    second: pipo-map001_290
+  - first:
+      213: 8939432465213135460
+    second: pipo-map001_291
+  - first:
+      213: -8060373750418820650
+    second: pipo-map001_292
+  - first:
+      213: -3394036238321149401
+    second: pipo-map001_293
+  - first:
+      213: 6833274601213537365
+    second: pipo-map001_294
+  - first:
+      213: 7442809249438779235
+    second: pipo-map001_295
+  - first:
+      213: 6422276444581370405
+    second: pipo-map001_296
+  - first:
+      213: -243637253199782316
+    second: pipo-map001_297
+  - first:
+      213: -1219701770579241424
+    second: pipo-map001_298
+  - first:
+      213: 8093928006966750426
+    second: pipo-map001_299
+  - first:
+      213: 3970372068697903450
+    second: pipo-map001_300
+  - first:
+      213: 6037974412184530254
+    second: pipo-map001_301
+  - first:
+      213: 975009721860778067
+    second: pipo-map001_302
+  - first:
+      213: -2052759412193969334
+    second: pipo-map001_303
+  - first:
+      213: -7372401337461399004
+    second: pipo-map001_304
+  - first:
+      213: -3756963454282557037
+    second: pipo-map001_305
+  - first:
+      213: 5290233243466169514
+    second: pipo-map001_306
+  - first:
+      213: -6409051331314802151
+    second: pipo-map001_307
+  - first:
+      213: 7738289990010668868
+    second: pipo-map001_308
+  - first:
+      213: 377403788179786717
+    second: pipo-map001_309
+  - first:
+      213: 5130640175761992998
+    second: pipo-map001_310
+  - first:
+      213: -1763408602043296259
+    second: pipo-map001_311
+  - first:
+      213: -749973358066266111
+    second: pipo-map001_312
+  - first:
+      213: 8414236576197692642
+    second: pipo-map001_313
+  - first:
+      213: 225192177481793862
+    second: pipo-map001_314
+  - first:
+      213: -57038083770328857
+    second: pipo-map001_315
+  - first:
+      213: 5056379484342047704
+    second: pipo-map001_316
+  - first:
+      213: -1612929204302379763
+    second: pipo-map001_317
+  - first:
+      213: 1703156928708807922
+    second: pipo-map001_318
+  - first:
+      213: -1318225585614463704
+    second: pipo-map001_319
+  - first:
+      213: -7674790544996448356
+    second: pipo-map001_320
+  - first:
+      213: -6618992919562866763
+    second: pipo-map001_321
+  - first:
+      213: -6984338527097964309
+    second: pipo-map001_322
+  - first:
+      213: -5674317319159525114
+    second: pipo-map001_323
+  - first:
+      213: 1008030145435839911
+    second: pipo-map001_324
+  - first:
+      213: 6498513549097448354
+    second: pipo-map001_325
+  - first:
+      213: 6523922083809862148
+    second: pipo-map001_326
+  - first:
+      213: 8747776001846655246
+    second: pipo-map001_327
+  - first:
+      213: -5931244769381475515
+    second: pipo-map001_328
+  - first:
+      213: -4739985434273946896
+    second: pipo-map001_329
+  - first:
+      213: -7255869321185247058
+    second: pipo-map001_330
+  - first:
+      213: -1875606825766234546
+    second: pipo-map001_331
+  - first:
+      213: -9038760263075765471
+    second: pipo-map001_332
+  - first:
+      213: 5585416677286751890
+    second: pipo-map001_333
+  - first:
+      213: 1774259758902440877
+    second: pipo-map001_334
+  - first:
+      213: 4899865707136945308
+    second: pipo-map001_335
+  - first:
+      213: 2657392439134678315
+    second: pipo-map001_336
+  - first:
+      213: -7846090532408094268
+    second: pipo-map001_337
+  - first:
+      213: 4130086525324351693
+    second: pipo-map001_338
+  - first:
+      213: 4503902215417986433
+    second: pipo-map001_339
+  - first:
+      213: 9127071616176658951
+    second: pipo-map001_340
+  - first:
+      213: -7782823742324700017
+    second: pipo-map001_341
+  - first:
+      213: -9215912467336308679
+    second: pipo-map001_342
+  - first:
+      213: 4142659009750543074
+    second: pipo-map001_343
+  - first:
+      213: 2060191093908577332
+    second: pipo-map001_344
+  - first:
+      213: -3192645701850920227
+    second: pipo-map001_345
+  - first:
+      213: -2851040613517928666
+    second: pipo-map001_346
+  - first:
+      213: -5158380187253802081
+    second: pipo-map001_347
+  - first:
+      213: 7880121327373838015
+    second: pipo-map001_348
+  - first:
+      213: -8157227090248023774
+    second: pipo-map001_349
+  - first:
+      213: 2508857165162953175
+    second: pipo-map001_350
+  - first:
+      213: -4435589579909379912
+    second: pipo-map001_351
+  - first:
+      213: -2898598357754327665
+    second: pipo-map001_352
+  - first:
+      213: 6270602979711781166
+    second: pipo-map001_353
+  - first:
+      213: -8747124157228121421
+    second: pipo-map001_354
+  - first:
+      213: 4587102453127133213
+    second: pipo-map001_355
+  - first:
+      213: -4110776281264962809
+    second: pipo-map001_356
+  - first:
+      213: -2319701946301582597
+    second: pipo-map001_357
+  - first:
+      213: 6565013790492890630
+    second: pipo-map001_358
+  - first:
+      213: 5917892766788410532
+    second: pipo-map001_359
+  - first:
+      213: -5569816481890769845
+    second: pipo-map001_360
+  - first:
+      213: -132208683517963303
+    second: pipo-map001_361
+  - first:
+      213: 462658987847500131
+    second: pipo-map001_362
+  - first:
+      213: 3562107989897454771
+    second: pipo-map001_363
+  - first:
+      213: -2594180791750258251
+    second: pipo-map001_364
+  - first:
+      213: -7821508320187616336
+    second: pipo-map001_365
+  - first:
+      213: 3602316322950597239
+    second: pipo-map001_366
+  - first:
+      213: 812942395525772403
+    second: pipo-map001_367
+  - first:
+      213: 6441277901434327443
+    second: pipo-map001_368
+  - first:
+      213: 2414663564225099069
+    second: pipo-map001_369
+  - first:
+      213: 2180704383130508894
+    second: pipo-map001_370
+  - first:
+      213: -4904860783484031802
+    second: pipo-map001_371
+  - first:
+      213: 7225102690419666785
+    second: pipo-map001_372
+  - first:
+      213: 7153297182953813974
+    second: pipo-map001_373
+  - first:
+      213: 3641539440617525119
+    second: pipo-map001_374
+  - first:
+      213: -303836270272209689
+    second: pipo-map001_375
+  - first:
+      213: -5351189134694821849
+    second: pipo-map001_376
+  - first:
+      213: -596808419127011928
+    second: pipo-map001_377
+  - first:
+      213: -7351517141989116086
+    second: pipo-map001_378
+  - first:
+      213: 8108364284323479619
+    second: pipo-map001_379
+  - first:
+      213: 7671195126545309835
+    second: pipo-map001_380
+  - first:
+      213: -2399654746046957454
+    second: pipo-map001_381
+  - first:
+      213: 8320066574262975476
+    second: pipo-map001_382
+  - first:
+      213: 8442044723791822669
+    second: pipo-map001_383
+  - first:
+      213: -6352859418929987722
+    second: pipo-map001_384
+  - first:
+      213: 2296035464341972337
+    second: pipo-map001_385
+  - first:
+      213: -4306591276304364651
+    second: pipo-map001_386
+  - first:
+      213: -7242001657884786698
+    second: pipo-map001_387
+  - first:
+      213: -5821940146673289735
+    second: pipo-map001_388
+  - first:
+      213: -7345736059333936859
+    second: pipo-map001_389
+  - first:
+      213: 5171484431122185651
+    second: pipo-map001_390
+  - first:
+      213: -3693003922144385133
+    second: pipo-map001_391
+  - first:
+      213: -3960900014537053453
+    second: pipo-map001_392
+  - first:
+      213: -3169637649515048609
+    second: pipo-map001_393
+  - first:
+      213: -6763624518090801065
+    second: pipo-map001_394
+  - first:
+      213: -3345149340199475548
+    second: pipo-map001_395
+  - first:
+      213: -7776955102375850157
+    second: pipo-map001_396
+  - first:
+      213: -6278396557019790674
+    second: pipo-map001_397
+  - first:
+      213: -1273964174554556584
+    second: pipo-map001_398
+  - first:
+      213: 7054431994967028931
+    second: pipo-map001_399
+  - first:
+      213: 6630579240553645619
+    second: pipo-map001_400
+  - first:
+      213: -1201759759272148186
+    second: pipo-map001_401
+  - first:
+      213: -77324188785816471
+    second: pipo-map001_402
+  - first:
+      213: 3751652397175754873
+    second: pipo-map001_403
+  - first:
+      213: 3939384071331037927
+    second: pipo-map001_404
+  - first:
+      213: 4349143461947085573
+    second: pipo-map001_405
+  - first:
+      213: 1042072399203645306
+    second: pipo-map001_406
+  - first:
+      213: -1194459526316976363
+    second: pipo-map001_407
+  - first:
+      213: -5131507200017420623
+    second: pipo-map001_408
+  - first:
+      213: 670061321338292410
+    second: pipo-map001_409
+  - first:
+      213: 1670070908870715770
+    second: pipo-map001_410
+  - first:
+      213: 6301118313304719217
+    second: pipo-map001_411
+  - first:
+      213: 1469741275811771430
+    second: pipo-map001_412
+  - first:
+      213: -1960136566481200611
+    second: pipo-map001_413
+  - first:
+      213: 8098180751878544868
+    second: pipo-map001_414
+  - first:
+      213: -935698361793923302
+    second: pipo-map001_415
+  - first:
+      213: -8803219779303154711
+    second: pipo-map001_416
+  - first:
+      213: 5135167730998601398
+    second: pipo-map001_417
+  - first:
+      213: -5700622802611432932
+    second: pipo-map001_418
+  - first:
+      213: 9198136871401163347
+    second: pipo-map001_419
+  - first:
+      213: -7621518877098574788
+    second: pipo-map001_420
+  - first:
+      213: 2034844942235206369
+    second: pipo-map001_421
+  - first:
+      213: 2909276195082784217
+    second: pipo-map001_422
+  - first:
+      213: 1352295999241276927
+    second: pipo-map001_423
+  - first:
+      213: -1749265711775050017
+    second: pipo-map001_424
+  - first:
+      213: 4666535753888414673
+    second: pipo-map001_425
+  - first:
+      213: -4362035046475819480
+    second: pipo-map001_426
+  - first:
+      213: -449167903340196927
+    second: pipo-map001_427
+  - first:
+      213: -6940475766910790026
+    second: pipo-map001_428
+  - first:
+      213: -4353326921125792265
+    second: pipo-map001_429
+  - first:
+      213: -8110920449705002325
+    second: pipo-map001_430
+  - first:
+      213: -5304583652157262253
+    second: pipo-map001_431
+  - first:
+      213: -7020983640392221079
+    second: pipo-map001_432
+  - first:
+      213: -5774905525313183610
+    second: pipo-map001_433
+  - first:
+      213: 4277003625691508137
+    second: pipo-map001_434
+  - first:
+      213: 1250609441671962869
+    second: pipo-map001_435
+  - first:
+      213: 6699847747445461354
+    second: pipo-map001_436
+  - first:
+      213: 1976256507804023727
+    second: pipo-map001_437
+  - first:
+      213: -487955644732483677
+    second: pipo-map001_438
+  - first:
+      213: -3495812484204885503
+    second: pipo-map001_439
+  - first:
+      213: -23301571031334955
+    second: pipo-map001_440
+  - first:
+      213: -1048038525397265771
+    second: pipo-map001_441
+  - first:
+      213: -2211418011214814981
+    second: pipo-map001_442
+  - first:
+      213: -3802840817759203869
+    second: pipo-map001_443
+  - first:
+      213: -5348384207990636325
+    second: pipo-map001_444
+  - first:
+      213: -6239170637977987879
+    second: pipo-map001_445
+  - first:
+      213: -8193632660183700823
+    second: pipo-map001_446
+  - first:
+      213: -5743068695209130338
+    second: pipo-map001_447
+  - first:
+      213: 3820191618909035643
+    second: pipo-map001_448
+  - first:
+      213: 5305620991689226400
+    second: pipo-map001_449
+  - first:
+      213: 7495325212691415961
+    second: pipo-map001_450
+  - first:
+      213: 2002018514353513363
+    second: pipo-map001_451
+  - first:
+      213: 6315209796054978172
+    second: pipo-map001_452
+  - first:
+      213: 5420130547817770697
+    second: pipo-map001_453
+  - first:
+      213: -4919890161981795826
+    second: pipo-map001_454
+  - first:
+      213: -1570775619518109459
+    second: pipo-map001_455
+  - first:
+      213: -7072523986367319372
+    second: pipo-map001_456
+  - first:
+      213: 3660435377658284012
+    second: pipo-map001_457
+  - first:
+      213: 8496857889678537305
+    second: pipo-map001_458
+  - first:
+      213: -2556337026609395262
+    second: pipo-map001_459
+  - first:
+      213: 3753095614919687710
+    second: pipo-map001_460
+  - first:
+      213: 5031883752024713124
+    second: pipo-map001_461
+  - first:
+      213: -3824001579176530175
+    second: pipo-map001_462
+  - first:
+      213: -6178138632059340812
+    second: pipo-map001_463
+  - first:
+      213: 7686113483466356333
+    second: pipo-map001_464
+  - first:
+      213: 1748744742654394889
+    second: pipo-map001_465
+  - first:
+      213: -4336760239313033629
+    second: pipo-map001_466
+  - first:
+      213: -8599533399416947202
+    second: pipo-map001_467
+  - first:
+      213: 8836455589504138149
+    second: pipo-map001_468
+  - first:
+      213: 396628922958703086
+    second: pipo-map001_469
+  - first:
+      213: 7442272383764613528
+    second: pipo-map001_470
+  - first:
+      213: -6654073515054227519
+    second: pipo-map001_471
+  - first:
+      213: -7716078665540875037
+    second: pipo-map001_472
+  - first:
+      213: -1206991873993793120
+    second: pipo-map001_473
+  - first:
+      213: 3945603198528989135
+    second: pipo-map001_474
+  - first:
+      213: -7485884075311826011
+    second: pipo-map001_475
+  - first:
+      213: 3390857182020066810
+    second: pipo-map001_476
+  - first:
+      213: -2092341119096569470
+    second: pipo-map001_477
+  - first:
+      213: 1924091357125437913
+    second: pipo-map001_478
+  - first:
+      213: 8609841214673846018
+    second: pipo-map001_479
+  - first:
+      213: 184918559923953392
+    second: pipo-map001_480
+  - first:
+      213: -3185307267025292749
+    second: pipo-map001_481
+  - first:
+      213: 1650923251016578201
+    second: pipo-map001_482
+  - first:
+      213: 4890563927524854797
+    second: pipo-map001_483
+  - first:
+      213: -501522219170105497
+    second: pipo-map001_484
+  - first:
+      213: 7849853090514433542
+    second: pipo-map001_485
+  - first:
+      213: 1045052262345656339
+    second: pipo-map001_486
+  - first:
+      213: -8926463812254589841
+    second: pipo-map001_487
+  - first:
+      213: -8532584401893215029
+    second: pipo-map001_488
+  - first:
+      213: 8670964287020359056
+    second: pipo-map001_489
+  - first:
+      213: -2678472165878256210
+    second: pipo-map001_490
+  - first:
+      213: 3998274504844187150
+    second: pipo-map001_491
+  - first:
+      213: 9113111951382766789
+    second: pipo-map001_492
+  - first:
+      213: 8211701987558828570
+    second: pipo-map001_493
+  - first:
+      213: -486852217952022731
+    second: pipo-map001_494
+  - first:
+      213: -6331676841287129070
+    second: pipo-map001_495
+  - first:
+      213: 6924672228600682186
+    second: pipo-map001_496
+  - first:
+      213: 6218486725544641048
+    second: pipo-map001_497
+  - first:
+      213: -4473388383528593363
+    second: pipo-map001_498
+  - first:
+      213: -1211220747315470354
+    second: pipo-map001_499
+  - first:
+      213: -2715076652253856367
+    second: pipo-map001_500
+  - first:
+      213: -7928526764731770235
+    second: pipo-map001_501
+  - first:
+      213: 6154697978991757654
+    second: pipo-map001_502
+  - first:
+      213: -7395552104655197566
+    second: pipo-map001_503
+  - first:
+      213: -4803239689231714926
+    second: pipo-map001_504
+  - first:
+      213: 6809425894690900870
+    second: pipo-map001_505
+  - first:
+      213: 1924542879124947698
+    second: pipo-map001_506
+  - first:
+      213: 814201547723195715
+    second: pipo-map001_507
+  - first:
+      213: -4496112372518428456
+    second: pipo-map001_508
+  - first:
+      213: -9027065308813313557
+    second: pipo-map001_509
+  - first:
+      213: 1688836323662600882
+    second: pipo-map001_510
+  - first:
+      213: 3538583299676543888
+    second: pipo-map001_511
+  - first:
+      213: -5498352322484977288
+    second: pipo-map001_512
+  - first:
+      213: -2021009652933474457
+    second: pipo-map001_513
+  - first:
+      213: 1286621155027657694
+    second: pipo-map001_514
+  - first:
+      213: 6813876427883386257
+    second: pipo-map001_515
+  - first:
+      213: 5114701913328472458
+    second: pipo-map001_516
+  - first:
+      213: -3354657977835708331
+    second: pipo-map001_517
+  - first:
+      213: -6112800626740536636
+    second: pipo-map001_518
+  - first:
+      213: -729925221407976335
+    second: pipo-map001_519
+  - first:
+      213: -8083094546282202101
+    second: pipo-map001_520
+  - first:
+      213: 3108470148486633419
+    second: pipo-map001_521
+  - first:
+      213: -1375795207918201723
+    second: pipo-map001_522
+  - first:
+      213: 8168577137208365996
+    second: pipo-map001_523
+  - first:
+      213: -6178853518256989938
+    second: pipo-map001_524
+  - first:
+      213: -8422215456943119098
+    second: pipo-map001_525
+  - first:
+      213: -6213143161827831225
+    second: pipo-map001_526
+  - first:
+      213: 7422648267046820050
+    second: pipo-map001_527
+  - first:
+      213: -2232045094829650036
+    second: pipo-map001_528
+  - first:
+      213: -5931253126079350419
+    second: pipo-map001_529
+  - first:
+      213: 7636815416471156559
+    second: pipo-map001_530
+  - first:
+      213: -7221696021248542933
+    second: pipo-map001_531
+  - first:
+      213: 2512652512141150019
+    second: pipo-map001_532
+  - first:
+      213: -7464644768483667516
+    second: pipo-map001_533
+  - first:
+      213: 268387260947273353
+    second: pipo-map001_534
+  - first:
+      213: -7968519874352311121
+    second: pipo-map001_535
+  - first:
+      213: 8531520521662069427
+    second: pipo-map001_536
+  - first:
+      213: 3582002544618597186
+    second: pipo-map001_537
+  - first:
+      213: 7788336633784708683
+    second: pipo-map001_538
+  - first:
+      213: 7022981933534162341
+    second: pipo-map001_539
+  - first:
+      213: -4186845113806588575
+    second: pipo-map001_540
+  - first:
+      213: -2910631009839548100
+    second: pipo-map001_541
+  - first:
+      213: -4623274020201845447
+    second: pipo-map001_542
+  - first:
+      213: -8642191898329887378
+    second: pipo-map001_543
+  - first:
+      213: 2787790700530294500
+    second: pipo-map001_544
+  - first:
+      213: 8656876768961225707
+    second: pipo-map001_545
+  - first:
+      213: 2419276131721984780
+    second: pipo-map001_546
+  - first:
+      213: 2363327314244526273
+    second: pipo-map001_547
+  - first:
+      213: -3812164366681041807
+    second: pipo-map001_548
+  - first:
+      213: -2506322830996199743
+    second: pipo-map001_549
+  - first:
+      213: 5504582267991274188
+    second: pipo-map001_550
+  - first:
+      213: 4405351829078294804
+    second: pipo-map001_551
+  - first:
+      213: 2835897246297742344
+    second: pipo-map001_552
+  - first:
+      213: -1915243821303609107
+    second: pipo-map001_553
+  - first:
+      213: 5158749378242009703
+    second: pipo-map001_554
+  - first:
+      213: 1420675897037974227
+    second: pipo-map001_555
+  - first:
+      213: -1674943882213263720
+    second: pipo-map001_556
+  - first:
+      213: 6836053800807659649
+    second: pipo-map001_557
+  - first:
+      213: 4115779724666747137
+    second: pipo-map001_558
+  - first:
+      213: -4282723354563748592
+    second: pipo-map001_559
+  - first:
+      213: -1972541427804751858
+    second: pipo-map001_560
+  - first:
+      213: -4665014216488454666
+    second: pipo-map001_561
+  - first:
+      213: 5993079585502183435
+    second: pipo-map001_562
+  - first:
+      213: -1874118225465302060
+    second: pipo-map001_563
+  - first:
+      213: -1444498582071413098
+    second: pipo-map001_564
+  - first:
+      213: -354371569073276425
+    second: pipo-map001_565
+  - first:
+      213: -5924113973480857896
+    second: pipo-map001_566
+  - first:
+      213: 6055939281151335402
+    second: pipo-map001_567
+  - first:
+      213: -7875927196699919473
+    second: pipo-map001_568
+  - first:
+      213: -3174175339785993965
+    second: pipo-map001_569
+  - first:
+      213: -4341929742610908205
+    second: pipo-map001_570
+  - first:
+      213: -9086154500470525461
+    second: pipo-map001_571
+  - first:
+      213: 6368129211820441755
+    second: pipo-map001_572
+  - first:
+      213: 685854683140437849
+    second: pipo-map001_573
+  - first:
+      213: -5633034876949259641
+    second: pipo-map001_574
+  - first:
+      213: 8491795255334626568
+    second: pipo-map001_575
+  - first:
+      213: 5081813854851921791
+    second: pipo-map001_576
+  - first:
+      213: 8897396365679806451
+    second: pipo-map001_577
+  - first:
+      213: -7369451015017479776
+    second: pipo-map001_578
+  - first:
+      213: 3667392384109522014
+    second: pipo-map001_579
+  - first:
+      213: -3253735021894172474
+    second: pipo-map001_580
+  - first:
+      213: -2338083134884075417
+    second: pipo-map001_581
+  - first:
+      213: 5343507466571528140
+    second: pipo-map001_582
+  - first:
+      213: -9100317853375547328
+    second: pipo-map001_583
+  - first:
+      213: 2793046755058921142
+    second: pipo-map001_584
+  - first:
+      213: 5594423268086474970
+    second: pipo-map001_585
+  - first:
+      213: -7759165616643521458
+    second: pipo-map001_586
+  - first:
+      213: 1422768948356326148
+    second: pipo-map001_587
+  - first:
+      213: 5719761935165553274
+    second: pipo-map001_588
+  - first:
+      213: 468053109238190784
+    second: pipo-map001_589
+  - first:
+      213: 1181450093917138041
+    second: pipo-map001_590
+  - first:
+      213: -6654764818292132411
+    second: pipo-map001_591
+  - first:
+      213: 6254761342312546190
+    second: pipo-map001_592
+  - first:
+      213: 4701242388324507623
+    second: pipo-map001_593
+  - first:
+      213: 1972360020588672925
+    second: pipo-map001_594
+  - first:
+      213: 1146351280338978479
+    second: pipo-map001_595
+  - first:
+      213: 4913349284448791176
+    second: pipo-map001_596
+  - first:
+      213: -1450896391336318771
+    second: pipo-map001_597
+  - first:
+      213: 6513800073483772674
+    second: pipo-map001_598
+  - first:
+      213: -556033031521234790
+    second: pipo-map001_599
+  - first:
+      213: -8444019794045585170
+    second: pipo-map001_600
+  - first:
+      213: 4333462592331562994
+    second: pipo-map001_601
+  - first:
+      213: 3937264276468163862
+    second: pipo-map001_602
+  - first:
+      213: 7969745073937646508
+    second: pipo-map001_603
+  - first:
+      213: 5234819804255206858
+    second: pipo-map001_604
+  - first:
+      213: 7146857569626211724
+    second: pipo-map001_605
+  - first:
+      213: -6275626816411041169
+    second: pipo-map001_606
+  - first:
+      213: 4534742207980436870
+    second: pipo-map001_607
+  - first:
+      213: 4643225808839025811
+    second: pipo-map001_608
+  - first:
+      213: -496986918371315169
+    second: pipo-map001_609
+  - first:
+      213: 711736499059762451
+    second: pipo-map001_610
+  - first:
+      213: -3558716277395190514
+    second: pipo-map001_611
+  - first:
+      213: 5139511700321969125
+    second: pipo-map001_612
+  - first:
+      213: -282544165245956022
+    second: pipo-map001_613
+  - first:
+      213: 4284727956488182344
+    second: pipo-map001_614
+  - first:
+      213: -8098694591692476137
+    second: pipo-map001_615
+  - first:
+      213: -7417192586853537175
+    second: pipo-map001_616
+  - first:
+      213: 2279572001818710667
+    second: pipo-map001_617
+  - first:
+      213: -5501616585251477151
+    second: pipo-map001_618
+  - first:
+      213: -7107221258246384291
+    second: pipo-map001_619
+  - first:
+      213: -6857075118148471495
+    second: pipo-map001_620
+  - first:
+      213: 7282660367947232573
+    second: pipo-map001_621
+  - first:
+      213: -6875596294684651905
+    second: pipo-map001_622
+  - first:
+      213: -8343556641543236050
+    second: pipo-map001_623
+  - first:
+      213: 497311563868368277
+    second: pipo-map001_624
+  - first:
+      213: -7257619623773501803
+    second: pipo-map001_625
+  - first:
+      213: -6229122721081839528
+    second: pipo-map001_626
+  - first:
+      213: 5592382060105114786
+    second: pipo-map001_627
+  - first:
+      213: -5897524836145294629
+    second: pipo-map001_628
+  - first:
+      213: 5042180469219546073
+    second: pipo-map001_629
+  - first:
+      213: 6992885895729548630
+    second: pipo-map001_630
+  - first:
+      213: -8872006062703739802
+    second: pipo-map001_631
+  - first:
+      213: -2438766157917280318
+    second: pipo-map001_632
+  - first:
+      213: -1190212388049051721
+    second: pipo-map001_633
+  - first:
+      213: -6742806662484526549
+    second: pipo-map001_634
+  - first:
+      213: -3921837923137500990
+    second: pipo-map001_635
+  - first:
+      213: -1142491328819870818
+    second: pipo-map001_636
+  - first:
+      213: -1415129532805090993
+    second: pipo-map001_637
+  - first:
+      213: -4537454897066031111
+    second: pipo-map001_638
+  - first:
+      213: 7621184521965011878
+    second: pipo-map001_639
+  - first:
+      213: -4438077596411531786
+    second: pipo-map001_640
+  - first:
+      213: 3002331393745557538
+    second: pipo-map001_641
+  - first:
+      213: -7539255025815953911
+    second: pipo-map001_642
+  - first:
+      213: -3836365375748805805
+    second: pipo-map001_643
+  - first:
+      213: 8635351625291478264
+    second: pipo-map001_644
+  - first:
+      213: -8172958615615285279
+    second: pipo-map001_645
+  - first:
+      213: 1436780463346983452
+    second: pipo-map001_646
+  - first:
+      213: -2971639464894107305
+    second: pipo-map001_647
+  - first:
+      213: -5386689987876011344
+    second: pipo-map001_648
+  - first:
+      213: 1949110500204236579
+    second: pipo-map001_649
+  - first:
+      213: 8565719906335446109
+    second: pipo-map001_650
+  - first:
+      213: -1570216621839781941
+    second: pipo-map001_651
+  - first:
+      213: -3632837565286995468
+    second: pipo-map001_652
+  - first:
+      213: 195775442483490594
+    second: pipo-map001_653
+  - first:
+      213: 5272253377701743543
+    second: pipo-map001_654
+  - first:
+      213: 4276508814956934915
+    second: pipo-map001_655
+  - first:
+      213: 5264689560882481494
+    second: pipo-map001_656
+  - first:
+      213: -2695314634886174191
+    second: pipo-map001_657
+  - first:
+      213: -4380265792987250231
+    second: pipo-map001_658
+  - first:
+      213: 3156580782501676738
+    second: pipo-map001_659
+  - first:
+      213: -1371664078760701096
+    second: pipo-map001_660
+  - first:
+      213: 4641529024004337192
+    second: pipo-map001_661
+  - first:
+      213: 5841152784444987692
+    second: pipo-map001_662
+  - first:
+      213: -6843179108844611080
+    second: pipo-map001_663
+  - first:
+      213: -4386740448005311462
+    second: pipo-map001_664
+  - first:
+      213: -7337413541303360871
+    second: pipo-map001_665
+  - first:
+      213: -6978629603673443535
+    second: pipo-map001_666
+  - first:
+      213: 4387768544250241825
+    second: pipo-map001_667
+  - first:
+      213: -766742926471611946
+    second: pipo-map001_668
+  - first:
+      213: -7909922374896469231
+    second: pipo-map001_669
+  - first:
+      213: 2048414667774424885
+    second: pipo-map001_670
+  - first:
+      213: -6755412478160619991
+    second: pipo-map001_671
+  - first:
+      213: -8293136220206361341
+    second: pipo-map001_672
+  - first:
+      213: 2041750969240010168
+    second: pipo-map001_673
+  - first:
+      213: -5882206241191437247
+    second: pipo-map001_674
+  - first:
+      213: 384520665065952679
+    second: pipo-map001_675
+  - first:
+      213: 1662770695275787681
+    second: pipo-map001_676
+  - first:
+      213: 5991727691384787060
+    second: pipo-map001_677
+  - first:
+      213: 1055776051536212217
+    second: pipo-map001_678
+  - first:
+      213: -8823810566017660641
+    second: pipo-map001_679
+  - first:
+      213: 549200820389049001
+    second: pipo-map001_680
+  - first:
+      213: -8314381719297435576
+    second: pipo-map001_681
+  - first:
+      213: -2602535715482252964
+    second: pipo-map001_682
+  - first:
+      213: 5998712127086553052
+    second: pipo-map001_683
+  - first:
+      213: -2914360899096445944
+    second: pipo-map001_684
+  - first:
+      213: 7696728290016562681
+    second: pipo-map001_685
+  - first:
+      213: -6883354742627699601
+    second: pipo-map001_686
+  - first:
+      213: 8619592739571167824
+    second: pipo-map001_687
+  - first:
+      213: 7119211310610801165
+    second: pipo-map001_688
+  - first:
+      213: 7402947309635310027
+    second: pipo-map001_689
+  - first:
+      213: 3521772643582646406
+    second: pipo-map001_690
+  - first:
+      213: 3531196307131219172
+    second: pipo-map001_691
+  - first:
+      213: -8530129918302025256
+    second: pipo-map001_692
+  - first:
+      213: -3856366682644586578
+    second: pipo-map001_693
+  - first:
+      213: -5418027323452814515
+    second: pipo-map001_694
+  - first:
+      213: 6622444005774822187
+    second: pipo-map001_695
+  - first:
+      213: 2547890291112718730
+    second: pipo-map001_696
+  - first:
+      213: -4557601045620588443
+    second: pipo-map001_697
+  - first:
+      213: -8881970289856005824
+    second: pipo-map001_698
+  - first:
+      213: 1457004205273629691
+    second: pipo-map001_699
+  - first:
+      213: 2927793581847631886
+    second: pipo-map001_700
+  - first:
+      213: 6620945086730439052
+    second: pipo-map001_701
+  - first:
+      213: -7645191289920226064
+    second: pipo-map001_702
+  - first:
+      213: 5590065034976013469
+    second: pipo-map001_703
+  - first:
+      213: 6165898382418865529
+    second: pipo-map001_704
+  - first:
+      213: -4650492662292689147
+    second: pipo-map001_705
+  - first:
+      213: 4740441691551064562
+    second: pipo-map001_706
+  - first:
+      213: -4874873465349036141
+    second: pipo-map001_707
+  - first:
+      213: 5804886800243838928
+    second: pipo-map001_708
+  - first:
+      213: -7578671215992147898
+    second: pipo-map001_709
+  - first:
+      213: -5418487486822628994
+    second: pipo-map001_710
+  - first:
+      213: -7515738829799415892
+    second: pipo-map001_711
+  - first:
+      213: 3866091342582060448
+    second: pipo-map001_712
+  - first:
+      213: -2113721712039314370
+    second: pipo-map001_713
+  - first:
+      213: 2576264384924510470
+    second: pipo-map001_714
+  - first:
+      213: -9169497607938282487
+    second: pipo-map001_715
+  - first:
+      213: 7046553672270364038
+    second: pipo-map001_716
+  - first:
+      213: 465583560612133020
+    second: pipo-map001_717
+  - first:
+      213: 8836541946338000292
+    second: pipo-map001_718
+  - first:
+      213: -4923876989338867391
+    second: pipo-map001_719
+  - first:
+      213: -4969174953732515911
+    second: pipo-map001_720
+  - first:
+      213: -1481900583610055093
+    second: pipo-map001_721
+  - first:
+      213: 8484288720825397050
+    second: pipo-map001_722
+  - first:
+      213: 6876518003719817611
+    second: pipo-map001_723
+  - first:
+      213: 3639003743892444499
+    second: pipo-map001_724
+  - first:
+      213: -9085831088252913383
+    second: pipo-map001_725
+  - first:
+      213: 6420543622968480864
+    second: pipo-map001_726
+  - first:
+      213: -220719851328791537
+    second: pipo-map001_727
+  - first:
+      213: -1924304791964619555
+    second: pipo-map001_728
+  - first:
+      213: 6226353467708857679
+    second: pipo-map001_729
+  - first:
+      213: 2265535066236502542
+    second: pipo-map001_730
+  - first:
+      213: -3553141465103243744
+    second: pipo-map001_731
+  - first:
+      213: 8155125812896943974
+    second: pipo-map001_732
+  - first:
+      213: 2060054042793463144
+    second: pipo-map001_733
+  - first:
+      213: -459002358960882046
+    second: pipo-map001_734
+  - first:
+      213: -5383869631876907364
+    second: pipo-map001_735
+  - first:
+      213: 3558337020473015605
+    second: pipo-map001_736
+  - first:
+      213: 1040325252610390665
+    second: pipo-map001_737
+  - first:
+      213: 625494831720480788
+    second: pipo-map001_738
+  - first:
+      213: 1274496320483401174
+    second: pipo-map001_739
+  - first:
+      213: 3077717282279007489
+    second: pipo-map001_740
+  - first:
+      213: -6192748126068300986
+    second: pipo-map001_741
+  - first:
+      213: 8599874652085952379
+    second: pipo-map001_742
+  - first:
+      213: 5705857700568883891
+    second: pipo-map001_743
+  - first:
+      213: 7592469427822164007
+    second: pipo-map001_744
+  - first:
+      213: -731615115769430605
+    second: pipo-map001_745
+  - first:
+      213: 2623067439276141724
+    second: pipo-map001_746
+  - first:
+      213: -8709612122486088398
+    second: pipo-map001_747
+  - first:
+      213: -1735957172344389078
+    second: pipo-map001_748
+  - first:
+      213: -2381485368626835087
+    second: pipo-map001_749
+  - first:
+      213: -5003334898637965342
+    second: pipo-map001_750
+  - first:
+      213: -2391744171628990949
+    second: pipo-map001_751
+  - first:
+      213: 9179478229238458299
+    second: pipo-map001_752
+  - first:
+      213: 2384437834692780234
+    second: pipo-map001_753
+  - first:
+      213: -1178769799074831402
+    second: pipo-map001_754
+  - first:
+      213: -2910334107449806622
+    second: pipo-map001_755
+  - first:
+      213: 4417141509177614798
+    second: pipo-map001_756
+  - first:
+      213: 1138650536150835911
+    second: pipo-map001_757
+  - first:
+      213: -8161327374741529645
+    second: pipo-map001_758
+  - first:
+      213: 8738796772473575534
+    second: pipo-map001_759
+  - first:
+      213: -7749348444526674358
+    second: pipo-map001_760
+  - first:
+      213: 3076966559047579618
+    second: pipo-map001_761
+  - first:
+      213: 1699321333775270320
+    second: pipo-map001_762
+  - first:
+      213: -563436647187343928
+    second: pipo-map001_763
+  - first:
+      213: -3280984829088192204
+    second: pipo-map001_764
+  - first:
+      213: -7165313391957543118
+    second: pipo-map001_765
+  - first:
+      213: 4045936215720106783
+    second: pipo-map001_766
+  - first:
+      213: 7591073147118238731
+    second: pipo-map001_767
+  - first:
+      213: -8829543765898336320
+    second: pipo-map001_768
+  - first:
+      213: 4724544858359428988
+    second: pipo-map001_769
+  - first:
+      213: 8652049822448116011
+    second: pipo-map001_770
+  - first:
+      213: 9017008971790700364
+    second: pipo-map001_771
+  - first:
+      213: -7084643747434094409
+    second: pipo-map001_772
+  - first:
+      213: 8646859711111728194
+    second: pipo-map001_773
+  - first:
+      213: 6089197704702158379
+    second: pipo-map001_774
+  - first:
+      213: 6387772675596072299
+    second: pipo-map001_775
+  - first:
+      213: 8410060810852019092
+    second: pipo-map001_776
+  - first:
+      213: 7933784361790510425
+    second: pipo-map001_777
+  - first:
+      213: 5016942309397752855
+    second: pipo-map001_778
+  - first:
+      213: 6063184361473858853
+    second: pipo-map001_779
+  - first:
+      213: 9066611870200804791
+    second: pipo-map001_780
+  - first:
+      213: 1207182671835614791
+    second: pipo-map001_781
+  - first:
+      213: 8451720236308786232
+    second: pipo-map001_782
+  - first:
+      213: 3229742233024261730
+    second: pipo-map001_783
+  - first:
+      213: -5112788719134271655
+    second: pipo-map001_784
+  - first:
+      213: -6366857963485612981
+    second: pipo-map001_785
+  - first:
+      213: 4497844256043876305
+    second: pipo-map001_786
+  - first:
+      213: -6241292134805319805
+    second: pipo-map001_787
+  - first:
+      213: -9217881512080299216
+    second: pipo-map001_788
+  - first:
+      213: -4912805986719659319
+    second: pipo-map001_789
+  - first:
+      213: -8160744019624876401
+    second: pipo-map001_790
+  - first:
+      213: -6362051118325636555
+    second: pipo-map001_791
+  - first:
+      213: 1778050273041237307
+    second: pipo-map001_792
+  - first:
+      213: -4718370428312495672
+    second: pipo-map001_793
+  - first:
+      213: 4861773914532098202
+    second: pipo-map001_794
+  - first:
+      213: -2639271365532176796
+    second: pipo-map001_795
+  - first:
+      213: -904299242809221056
+    second: pipo-map001_796
+  - first:
+      213: -5502345790822824424
+    second: pipo-map001_797
+  - first:
+      213: -7546278186469129368
+    second: pipo-map001_798
+  - first:
+      213: 3744850390001587639
+    second: pipo-map001_799
+  - first:
+      213: -9175926289427198812
+    second: pipo-map001_800
+  - first:
+      213: -933850244865748859
+    second: pipo-map001_801
+  - first:
+      213: 131300850398864350
+    second: pipo-map001_802
+  - first:
+      213: 808465803866709452
+    second: pipo-map001_803
+  - first:
+      213: -7878766627081003348
+    second: pipo-map001_804
+  - first:
+      213: -7332055622133219720
+    second: pipo-map001_805
+  - first:
+      213: 8411508035034155667
+    second: pipo-map001_806
+  - first:
+      213: -2629877182619629799
+    second: pipo-map001_807
+  - first:
+      213: -5750503637132219535
+    second: pipo-map001_808
+  - first:
+      213: -5281687863418604080
+    second: pipo-map001_809
+  - first:
+      213: -1322124725510416639
+    second: pipo-map001_810
+  - first:
+      213: 2425291586473372254
+    second: pipo-map001_811
+  - first:
+      213: -9157769997222664970
+    second: pipo-map001_812
+  - first:
+      213: 1627813583488234778
+    second: pipo-map001_813
+  - first:
+      213: 3778356191192836661
+    second: pipo-map001_814
+  - first:
+      213: -6900238202988461265
+    second: pipo-map001_815
+  - first:
+      213: -6024991194032897119
+    second: pipo-map001_816
+  - first:
+      213: -8368961390697130622
+    second: pipo-map001_817
+  - first:
+      213: -6532601567481408812
+    second: pipo-map001_818
+  - first:
+      213: 5605091209502424396
+    second: pipo-map001_819
+  - first:
+      213: 2181139552762387206
+    second: pipo-map001_820
+  - first:
+      213: -5288898100018656865
+    second: pipo-map001_821
+  - first:
+      213: -5105907193268862017
+    second: pipo-map001_822
+  - first:
+      213: 6706082372412879840
+    second: pipo-map001_823
+  - first:
+      213: -829893738192680564
+    second: pipo-map001_824
+  - first:
+      213: 2612280725445125696
+    second: pipo-map001_825
+  - first:
+      213: 6937936203627099602
+    second: pipo-map001_826
+  - first:
+      213: -8343955145841902043
+    second: pipo-map001_827
+  - first:
+      213: -704876595717847580
+    second: pipo-map001_828
+  - first:
+      213: 6434280985897566180
+    second: pipo-map001_829
+  - first:
+      213: 1190202340115847520
+    second: pipo-map001_830
+  - first:
+      213: -2185067095962729320
+    second: pipo-map001_831
+  - first:
+      213: 66087510139881433
+    second: pipo-map001_832
+  - first:
+      213: -102979207284434619
+    second: pipo-map001_833
+  - first:
+      213: -8077588452894198450
+    second: pipo-map001_834
+  - first:
+      213: -6635966020771710826
+    second: pipo-map001_835
+  - first:
+      213: -1403235421761061063
+    second: pipo-map001_836
+  - first:
+      213: -6793188452996071505
+    second: pipo-map001_837
+  - first:
+      213: -8977261991810848916
+    second: pipo-map001_838
+  - first:
+      213: 1433605818238659375
+    second: pipo-map001_839
+  - first:
+      213: -6753632100225167217
+    second: pipo-map001_840
+  - first:
+      213: -939517273978901616
+    second: pipo-map001_841
+  - first:
+      213: 227955472906008068
+    second: pipo-map001_842
+  - first:
+      213: 1061294275837512511
+    second: pipo-map001_843
+  - first:
+      213: -7960336267054837314
+    second: pipo-map001_844
+  - first:
+      213: 5536792895917067701
+    second: pipo-map001_845
+  - first:
+      213: 5832197520924124675
+    second: pipo-map001_846
+  - first:
+      213: 4285764405951169826
+    second: pipo-map001_847
+  - first:
+      213: -8604262738588227541
+    second: pipo-map001_848
+  - first:
+      213: -2666596023500702986
+    second: pipo-map001_849
+  - first:
+      213: -2266498747192972596
+    second: pipo-map001_850
+  - first:
+      213: 4195237459083191546
+    second: pipo-map001_851
+  - first:
+      213: 8880114506467858959
+    second: pipo-map001_852
+  - first:
+      213: -4599114533502671643
+    second: pipo-map001_853
+  - first:
+      213: -2890687607080227959
+    second: pipo-map001_854
+  - first:
+      213: -9096509887729746075
+    second: pipo-map001_855
+  - first:
+      213: 4075804092284332532
+    second: pipo-map001_856
+  - first:
+      213: 8241545635948646563
+    second: pipo-map001_857
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +2614,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +2645,2178 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: pipo-map001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8afa65c48eed6b0800000000000000
+      internalID: -5269519099407390509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7dd0f34e155d4b0800000000000000
+      internalID: -5416332936090888234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eae7cb91ebc2ed0800000000000000
+      internalID: -2437364280568402399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9a39adeb71c43b0800000000000000
+      internalID: -5527016534212105731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e24c0aafecd99330800000000000000
+      internalID: 3718245889279279847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61edad2da25bdf040800000000000000
+      internalID: 4683098383065996822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3412b43421b6a0b0800000000000000
+      internalID: -5717687907839241153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc47b3488ba85c310800000000000000
+      internalID: 1424697382229734607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8cdb6c0371568a0800000000000000
+      internalID: -6312613804429686609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d647e40ae62339cf0800000000000000
+      internalID: -246798103857957779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce66bec2c5f1dbe0800000000000000
+      internalID: -1454110987623436608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3ae4a6207722110800000000000000
+      internalID: 1234680100110115839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01c09ef69beb63f0800000000000000
+      internalID: -906371866236501745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36f35ac017959c70800000000000000
+      internalID: 8977247530602722876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e6c1b81e0c52390800000000000000
+      internalID: -7843651101061779845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf072ea5670c5c70800000000000000
+      internalID: 8961045491855331264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f07a8a2b87d2ba0800000000000000
+      internalID: -6112096410542862560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bfc1afa23133060800000000000000
+      internalID: 6931905326759082842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1d24de003379710800000000000000
+      internalID: 1699883463429247414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09dee0d4e23a2380800000000000000
+      internalID: -8995321347379898099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f475125b2d7a2d0800000000000000
+      internalID: -3267411329243721955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cf1caddec53c950800000000000000
+      internalID: 6468115666481314835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0c85a6178b0e2d0800000000000000
+      internalID: -3251396133706481436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f411b28bc5d51f8d0800000000000000
+      internalID: -2814365639321644721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_24
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0431026239a78a70800000000000000
+      internalID: 8829211628340851727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dd8f1e1ff4d7b30800000000000000
+      internalID: 4286670320623476122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6b48ebd1a0cac50800000000000000
+      internalID: 6677723470350300850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69ea9d60366dd740800000000000000
+      internalID: 5178407504729270636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af267bdd1b425480800000000000000
+      internalID: -8911978121004699742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42899ac605cc56680800000000000000
+      internalID: -8762372854186928092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddad181fa3fb2adb0800000000000000
+      internalID: -4782049594433217827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be9c6cc4396b1390800000000000000
+      internalID: -7846562250274070864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404f2b38a07f7cff0800000000000000
+      internalID: -15772449141230588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8a3d270436bbbc0800000000000000
+      internalID: -3766307534909757195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aa7f0c980bc4b90800000000000000
+      internalID: -7256230793906247091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8da4c2a1a7824900800000000000000
+      internalID: 667244823094537612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbeb3b21d86582270800000000000000
+      internalID: 8225919883296358076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf7c594f18419900800000000000000
+      internalID: 689411517176381371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62b9ee1f0093b900800000000000000
+      internalID: 699060761790100076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824748570500e4760800000000000000
+      internalID: 7443887579659007016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_40
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52842978ad05e1c50800000000000000
+      internalID: 6637831800298293285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d811f58305d71b0800000000000000
+      internalID: -5657277353864098411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e26c2bd72994650800000000000000
+      internalID: 6217661829129580176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffa36e2652abbc50800000000000000
+      internalID: 6682112963163434993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0386ad3ff4386ff10800000000000000
+      internalID: 2303172638863419440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2649fa600ddf83a60800000000000000
+      internalID: 7654146636623352930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae59eefddf58ec1b0800000000000000
+      internalID: -5634418758363736598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4cf4c93fa2e8130800000000000000
+      internalID: 3570838780339274946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_48
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572314ba99cb63b00800000000000000
+      internalID: 808040551348777589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f0e00bc6d2c7df0800000000000000
+      internalID: -181219940168233198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf9458e7491324c0800000000000000
+      internalID: -4313576221459570760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df1f1ce6fc603790800000000000000
+      internalID: -7552416767321104429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fcde2f56b775320800000000000000
+      internalID: 2546639792098889593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b6c498d66a74c60800000000000000
+      internalID: 7802387868827806490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac58b7c5d2122760800000000000000
+      internalID: 7431523044502822054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd9aa74fe224a9b0800000000000000
+      internalID: -5069888869417443844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ee3391b79c75760800000000000000
+      internalID: 7446642039421398555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9099255958178b0800000000000000
+      internalID: -5156193221980124680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a231aa3cf28c3f110800000000000000
+      internalID: 1293597625457185578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c8f165b10f55010800000000000000
+      internalID: 1177110877826944098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129ecd28bff6f5770800000000000000
+      internalID: 8601716939323926817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c813b24e15ece180800000000000000
+      internalID: -9084634430182319928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c7a1736bbfda6d0800000000000000
+      internalID: -2977447018594927535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa1f28e5d6b87250800000000000000
+      internalID: 5942700738155059958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626cbea4bf533c040800000000000000
+      internalID: 4666632992295994918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d1a4bf2c211c720800000000000000
+      internalID: 2864591466633239918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b6db32f7fdd9c20800000000000000
+      internalID: 3214971446165859164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988095626977e26b0800000000000000
+      internalID: -5319182623105808247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_68
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2c9f500d0774740800000000000000
+      internalID: 5136197938795102884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7531b38c13ec5f7e0800000000000000
+      internalID: -1732251768446053545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_70
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edd1d6f380ba8c00800000000000000
+      internalID: 903728756069359080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f05923ffaf5ad710800000000000000
+      internalID: 1718791417098752249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b188394ebac2be0800000000000000
+      internalID: -1500635577605154031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b0e7ac835e1cf70800000000000000
+      internalID: 9205891145400191851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e7aaf1ca5d96b20800000000000000
+      internalID: 3128266351427878525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324b3539ce9391f90800000000000000
+      internalID: -6982486059014441949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2812a91f3481e660800000000000000
+      internalID: 7413351868176406571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_77
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b13abcb9e56d150800000000000000
+      internalID: 5897004785317649190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6b1de5e388598d0800000000000000
+      internalID: -2840214188527077694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_79
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b50b5a88e9367f50800000000000000
+      internalID: 6878749151771428278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39660cc3605a0d30800000000000000
+      internalID: 4398416375635667263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e00b213684ebc5a0800000000000000
+      internalID: -6499850372177526558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17e0c6c91b7e7690800000000000000
+      internalID: -7602503770315888869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b6c7a883303aec0800000000000000
+      internalID: -3556995739316098263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afebd6a9dda22a7c0800000000000000
+      internalID: -4061636782667743494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0e82a8424ea4420800000000000000
+      internalID: 2615153379229884649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c43e91df5d2f390800000000000000
+      internalID: -7785925522732397524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58d4604794e4eed0800000000000000
+      internalID: -2385530564327974818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc20cc571167c510800000000000000
+      internalID: 1569329748130147581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3e5c65201dca8b0800000000000000
+      internalID: -5139503266760629268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530e38f902407b050800000000000000
+      internalID: 5816121981933969461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969928634696ca020800000000000000
+      internalID: 2354372584340101481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20ab928c7c687860800000000000000
+      internalID: 7527886059172765739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d9d692421a899b0800000000000000
+      internalID: -5073127803546919541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e97a2e9a4e543f70800000000000000
+      internalID: 9166054816179976674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fff5d5daedb46ef0800000000000000
+      internalID: -115758874097221641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42fe2abf582f9d30800000000000000
+      internalID: 4440312149221241423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571c4acd6c0945b60800000000000000
+      internalID: 7733965643881693557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20ba56f2f14f3d00800000000000000
+      internalID: 954554157796864045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c97d68a76b5d6b90800000000000000
+      internalID: -7247035724603754042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-map001_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfe4e62017ba8c10800000000000000
+      internalID: 2056657459847950271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
