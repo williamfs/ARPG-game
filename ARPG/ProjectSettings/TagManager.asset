@@ -8,6 +8,7 @@ TagManager:
   - Decoration_in_front_of_Ground
   - Colliders
   - villager
+  - ghost
   layers:
   - Default
   - TransparentFX
