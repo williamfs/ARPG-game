@@ -12,6 +12,11 @@ public class Player : MonoBehaviour
     
 
     private bool OneTimeKey = false;
+    private bool ItemCanBePick = false;
+    private float electric_Pieces = 0f;
+    private string Object_Tag;
+
+    Collider2D Item;
     void Start()
     {
         Character_animator = GetComponent<Animator>();
@@ -21,6 +26,7 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
         transform.rotation = Quaternion.identity;
         KeysPressed();
         KeysReleased();
@@ -28,7 +34,17 @@ public class Player : MonoBehaviour
     }
     private void KeysPressed()
     {
-
+        if(Input.GetKeyDown(KeyCode.X)&&ItemCanBePick)
+        {
+            switch(Object_Tag)
+            {
+                case "Electric_Piece":
+                    Destroy(Item.gameObject);
+                    electric_Pieces++;
+                    Get_TotalElectricPieces();
+                    break;
+            }    
+        }
         if (Input.GetKeyDown(KeyCode.D) && OneTimeKey == false)
         {
             Character_animator.SetFloat("Xspeed", 0.5f);
@@ -88,5 +104,30 @@ public class Player : MonoBehaviour
             PlayerRB.velocity = new Vector2(0f, 0f);
             OneTimeKey = false;
         }
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    
+    {
+        
+            if (collision.gameObject.tag == "Electric_Piece")
+            {
+            ItemCanBePick = true;
+            Item = collision;
+            Object_Tag = "Electric_Piece";
+
+        }
+    }
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Electric_Piece" && collision.gameObject !=null)
+        {
+            ItemCanBePick = false;
+
+        }
+    }
+    public float Get_TotalElectricPieces()
+    {
+        return electric_Pieces;
+        
     }
 }

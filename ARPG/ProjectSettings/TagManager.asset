@@ -9,6 +9,8 @@ TagManager:
   - Colliders
   - villager
   - ghost
+  - Electric_Piece
+  - Electric_Trigery
   layers:
   - Default
   - TransparentFX

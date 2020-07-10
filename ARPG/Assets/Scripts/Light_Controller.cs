@@ -50,6 +50,10 @@ public class Light_Controller : MonoBehaviour
             counter -= Time.deltaTime * Timer;
             LightBar.transform.localScale = new Vector2((float)counter, 1f);
         }
+        else if(lightOn==false)
+        {
+            PlayerLight.pointLightOuterRadius = 0;
+        }
         else if(counter<0)
         {
             PlayerLight.pointLightOuterRadius = 0;

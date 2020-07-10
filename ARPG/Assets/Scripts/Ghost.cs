@@ -47,7 +47,7 @@ public class Ghost : MonoBehaviour
     IEnumerator patrol()
     {
         yield return new WaitForSeconds(2f);
-        Debug.Log("On patrol");
+        
         float selection = UnityEngine.Random.Range(1, 3); //1 is a left or right, 2 is up or down.
         float directionX = UnityEngine.Random.Range(-1, 2);
         float directionY = UnityEngine.Random.Range(-1, 2);
