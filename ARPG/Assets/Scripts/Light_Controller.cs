@@ -79,5 +79,10 @@ public class Light_Controller : MonoBehaviour
         Batery_text.text = total_Bateries.ToString();
 
     }
+    public void  Set_Batteries()
+    {
+        total_Bateries++;
+        Batery_text.text = total_Bateries.ToString();
+    }
    
 }

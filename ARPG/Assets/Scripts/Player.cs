@@ -1,7 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.Experimental.Rendering.LWRP;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
@@ -9,18 +11,24 @@ public class Player : MonoBehaviour
 
     Animator Character_animator;
     Rigidbody2D PlayerRB;
-    
+
+    [SerializeField] TextMeshPro OverThePlayerText;
+
 
     private bool OneTimeKey = false;
     private bool ItemCanBePick = false;
     private float electric_Pieces = 0f;
     private string Object_Tag;
+   
 
     Collider2D Item;
     void Start()
     {
         Character_animator = GetComponent<Animator>();
         PlayerRB = GetComponent<Rigidbody2D>();
+
+      
+
     }
 
     // Update is called once per frame
@@ -42,6 +50,10 @@ public class Player : MonoBehaviour
                     Destroy(Item.gameObject);
                     electric_Pieces++;
                     Get_TotalElectricPieces();
+                    break;
+                case "Battery":
+                    Destroy(Item.gameObject);
+                    FindObjectOfType<Light_Controller>().Set_Batteries();
                     break;
             }    
         }
@@ -109,20 +121,38 @@ public class Player : MonoBehaviour
     
     {
         
-            if (collision.gameObject.tag == "Electric_Piece")
-            {
-            ItemCanBePick = true;
-            Item = collision;
-            Object_Tag = "Electric_Piece";
+            
+        switch (collision.gameObject.tag)
+        {
 
+            case "Electric_Piece":
+                ItemCanBePick = true;
+                Item = collision;
+                Object_Tag = "Electric_Piece";
+                OverThePlayerText.text = "!?";
+                break;
+            case "Battery":
+                ItemCanBePick = true;
+                Item = collision;
+                Object_Tag = "Battery";
+                OverThePlayerText.text = "!?";
+                break;
         }
+
+
     }
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Electric_Piece" && collision.gameObject !=null)
         {
             ItemCanBePick = false;
+            OverThePlayerText.text = "";
 
+        }
+        if(collision.gameObject.tag == "Battery" && collision.gameObject != null)
+        {
+            ItemCanBePick = false;
+            OverThePlayerText.text = "";
         }
     }
     public float Get_TotalElectricPieces()

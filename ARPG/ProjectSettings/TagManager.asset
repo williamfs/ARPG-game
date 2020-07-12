@@ -11,6 +11,7 @@ TagManager:
   - ghost
   - Electric_Piece
   - Electric_Trigery
+  - Battery
   layers:
   - Default
   - TransparentFX
