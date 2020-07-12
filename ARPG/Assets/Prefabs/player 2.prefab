@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 6096538212457180297}
   - component: {fileID: 6096538212457180296}
   m_Layer: 0
-  m_Name: Text (TMP)
+  m_Name: OverThePlayer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -365,7 +365,7 @@ MonoBehaviour:
   Timer: 0.01
   PlayerLight: {fileID: 8046561028159493671}
   LightBar: {fileID: 0}
-  total_Bateries: 2
+  total_Bateries: 0
   Batery_text: {fileID: 0}
 --- !u!1 &8046561028416313291
 GameObject:
@@ -488,7 +488,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce62d60080eba1e4fbe8bef31e764bf9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  OverThePlayerText: {fileID: 0}
+  OverThePlayerText: {fileID: 6096538212457180296}
+  moveSpeed: 5
 --- !u!50 &8046561028416313286
 Rigidbody2D:
   serializedVersion: 4
@@ -509,7 +510,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &8046561028416313289
 BoxCollider2D:
   m_ObjectHideFlags: 0
