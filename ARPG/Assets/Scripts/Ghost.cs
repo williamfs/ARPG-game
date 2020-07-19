@@ -9,6 +9,7 @@ public class Ghost : MonoBehaviour
     float speedX = 0f;
     float speedY = 0f;
 
+    private bool night;
     bool chaseMode = false;
     bool patrol_lock = false;
 
@@ -17,7 +18,8 @@ public class Ghost : MonoBehaviour
     void Start()
     {
         EnemyRB = GetComponent<Rigidbody2D>();
- 
+        night = FindObjectOfType<DayNightCycle>().Night_Controller();
+       
     }
 
     // Update is called once per frame
@@ -25,7 +27,9 @@ public class Ghost : MonoBehaviour
     {
         transform.rotation = Quaternion.identity;
         chaseMode = Vector2.Distance(transform.position, player.transform.position) <= 10 ? true:false ;
-   
+        night = FindObjectOfType<DayNightCycle>().Night_Controller();
+     
+       
         switch (chaseMode) 
         {
             case true:
@@ -36,6 +40,7 @@ public class Ghost : MonoBehaviour
                 EnemyRB.velocity = new Vector2(speedX, speedY);
                 break;
         }
+        
     }
     private void patrolMode()
     {

@@ -17,7 +17,7 @@ public class TurnOn : MonoBehaviour
     void Update()
     {
         activate = FindObjectOfType<Electricity_Controler>().Get_Activatelight();
-        Debug.Log(activate);
+
         if (activate==false)
         {
             transform.GetChild(0).gameObject.SetActive(false);

@@ -35,7 +35,7 @@ public class Electricity_Controler : MonoBehaviour
             OneTimeActivate = true;
             Get_Activatelight();
            
-            Debug.Log("Light Activate");
+            
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)

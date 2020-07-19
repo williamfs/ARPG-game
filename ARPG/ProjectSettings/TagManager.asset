@@ -12,6 +12,7 @@ TagManager:
   - Electric_Piece
   - Electric_Trigery
   - Battery
+  - Welcome_Text
   layers:
   - Default
   - TransparentFX

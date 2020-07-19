@@ -21,15 +21,14 @@ public class Life_Controller : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+  public void StartCicle()
     {
-        if(Input.GetKeyDown(KeyCode.Q) && Corutine_lock ==false)
-        {
-            StartCoroutine(HeartCicle());
-        }
+        StartCoroutine(HeartCicle());
     }
     IEnumerator HeartCicle()
     {
+       
+
         yield return new WaitForSeconds(2f);
 
         if (counter < totalSprites)
@@ -39,6 +38,14 @@ public class Life_Controller : MonoBehaviour
             counter++;
         }
 
+    }
+    public void HeartChanger()
+    {
+        if (counter < totalSprites)
 
+        {
+            HeartRender.sprite = heart_Sprites[counter];
+            counter++;
+        }
     }
 }
